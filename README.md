@@ -1,4 +1,4 @@
-### ⚡ I’m working at <a href="https://sadadpsp.ir/"> Sadad PSP </a>
+### ⚡ Technical Manager at <a href="https://selldone.ir/"> Selldone </a>
 
 
 <p align="center">
@@ -9,14 +9,10 @@
 
 <!--
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Hyperchi
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Selldone
+- 🌱 I’m currently learning AI By Go Lang
+- 🤔 I’m looking for help to world with you
+- 💬 Ask me about Life
+- 📫 How to reach me: amingoli.com
+- 😄 Pronouns: impressionable
 -->
