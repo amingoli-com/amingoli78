@@ -1,4 +1,4 @@
-### ⚡ Technical Manager at <a href="https://selldone.ir/"> Selldone </a>
+### ⚡ Technical Manager at <a href="https://selldone.ir/"> Seller </a>
 
 
 <p align="center">
